@@ -22,9 +22,7 @@ No disease | 495 | 9,405 | 9,900
 
 FDR = “false positive rate” ~ 86%
 
-Admittedly, though Prof. Colquhoun says that these numbers are “disastrous”, I think that these are pretty good numbers in practice – given that false positives are less important than false negatives. 
-
-Overall, he mentions controlling for FDR, instead of just using the p-value – i.e. report the chances that you’ve found a false positive, rather than the chance that you observe what the data tells you, given a hypothesis (effect). I’m guessing that Benjamini-Hochberg does this. 
+Overall, Prof. Colquhoun mentions controlling for FDR, instead of just using the p-value – i.e. report the chances that you’ve found a false positive, rather than the chance that you observe what the data tells you, given a hypothesis (effect). I’m guessing that Benjamini-Hochberg does this. 
 
 ## The American Statistical Association’s Statement on p-values (2016)
 
